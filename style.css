@@ -177,7 +177,10 @@ container .sidebar .playing .bottom p{
     align-items: center;
     justify-content: space-between;
     color: #fff;
+    
 }
+
+
 
 .container main .trending .left .info{
     margin-top: 12px;
@@ -223,8 +226,6 @@ container .sidebar .playing .bottom p{
     padding: 10px;
     border-radius: 50%;
 }
-
-
 
 .container main .trending img{
     width: 300px;
